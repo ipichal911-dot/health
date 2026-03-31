@@ -1,0 +1,1 @@
+![CI](https://github.com/ipichal911-dot/health/actions/workflows/ci.yml/badge.svg)
